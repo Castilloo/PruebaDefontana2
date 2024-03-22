@@ -1,0 +1,14 @@
+/home/dcastillo/RiderProjects/EjemploDefontana/EjemploDefontana/bin/Debug/net8.0/EjemploDefontana
+/home/dcastillo/RiderProjects/EjemploDefontana/EjemploDefontana/bin/Debug/net8.0/EjemploDefontana.deps.json
+/home/dcastillo/RiderProjects/EjemploDefontana/EjemploDefontana/bin/Debug/net8.0/EjemploDefontana.runtimeconfig.json
+/home/dcastillo/RiderProjects/EjemploDefontana/EjemploDefontana/bin/Debug/net8.0/EjemploDefontana.dll
+/home/dcastillo/RiderProjects/EjemploDefontana/EjemploDefontana/bin/Debug/net8.0/EjemploDefontana.pdb
+/home/dcastillo/RiderProjects/EjemploDefontana/EjemploDefontana/obj/Debug/net8.0/EjemploDefontana.GeneratedMSBuildEditorConfig.editorconfig
+/home/dcastillo/RiderProjects/EjemploDefontana/EjemploDefontana/obj/Debug/net8.0/EjemploDefontana.AssemblyInfoInputs.cache
+/home/dcastillo/RiderProjects/EjemploDefontana/EjemploDefontana/obj/Debug/net8.0/EjemploDefontana.AssemblyInfo.cs
+/home/dcastillo/RiderProjects/EjemploDefontana/EjemploDefontana/obj/Debug/net8.0/EjemploDefontana.csproj.CoreCompileInputs.cache
+/home/dcastillo/RiderProjects/EjemploDefontana/EjemploDefontana/obj/Debug/net8.0/EjemploDefontana.dll
+/home/dcastillo/RiderProjects/EjemploDefontana/EjemploDefontana/obj/Debug/net8.0/refint/EjemploDefontana.dll
+/home/dcastillo/RiderProjects/EjemploDefontana/EjemploDefontana/obj/Debug/net8.0/EjemploDefontana.pdb
+/home/dcastillo/RiderProjects/EjemploDefontana/EjemploDefontana/obj/Debug/net8.0/EjemploDefontana.genruntimeconfig.cache
+/home/dcastillo/RiderProjects/EjemploDefontana/EjemploDefontana/obj/Debug/net8.0/ref/EjemploDefontana.dll
